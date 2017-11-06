@@ -1,1 +1,1 @@
-# FCC-log-
+This is my FreeCodeCamp Journey!
